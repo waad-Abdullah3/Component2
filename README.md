@@ -1,2 +1,2 @@
 # Component2
-# No support weighted graphs through
+# No support weighted graphs 
